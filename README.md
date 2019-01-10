@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save @types/pdfkit`
+> `npm install https://github.com/nico75005/types-pdfKit.git`
 
 # Summary
 This package contains type definitions for Pdfkit (http://pdfkit.org).
